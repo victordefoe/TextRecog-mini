@@ -1,0 +1,7 @@
+./data/test_test/0.jpg 0:.:j:p:g:# 
+./data/test_test/27.jpg 2:7:.:j:p:g:# 
+./data/test_test/65.jpg 6:5:.:j:p:g:# 
+./data/test_test/66.jpg 6:6:.:j:p:g:# 
+./data/test_test/72.jpg 7:2:.:j:p:g:# 
+./data/test_test/73.jpg 7:3:.:j:p:g:# 
+./data/test_test/8.jpg 8:.:j:p:g:# 
